@@ -8,7 +8,7 @@
         ],
         "components": [
           {
-            "/": "/plaid-dev/redirect/*"
+            "/": "/plaid-dev/redirect/*",
             "comment": "OAuth Redirect from Plaid"
           }
         ]
