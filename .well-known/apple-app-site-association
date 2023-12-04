@@ -1,0 +1,18 @@
+{
+  "appLinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "VK735655VT.com.ventuz.yogurt"
+        ],
+        "components": [
+          {
+            "/": "/plaid-dev/redirect/*"
+            "comment": "OAuth Redirect from Plaid"
+          }
+        ]
+      }
+    ]
+  }
+}
